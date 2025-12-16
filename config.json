@@ -1,0 +1,197 @@
+{
+    "de-CH": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#2B2F52",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#0a0a0a",
+            "main-bg": "#E9E9E9",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#4283BC",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#cc3333",
+            "yellow": "#F9B000",
+            "yellow-button": "#4283BC",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#2B2F52",
+            "faq-label": "#FFFFFF",
+            "bg-footer": "#2B2F52",
+            "copyright": "#e7e7d5",
+            "starColor": "#F9B000",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Pfäffikon",
+            "title": "Casino Pfäffikon | Spielautomaten, Roulette, Poker und Unterhaltung in der Schweiz",
+            "description": "Entdecken Sie das Casino Pfäffikon – modernes Casino mit Slots, Roulette, Poker und VIP-Bereich. Boni, Aktionen, Restaurants, Hotels und Top-Events direkt am Zürichsee.\n",
+            "canonical": "pfaeffikon-casino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1014",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "pfaeffikon-casino.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1024",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1023"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1017",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Pfäffikon Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "hero": {
+            "title": "Casino Pfäffikon – Spielspass und Stil am Zürichsee",
+            "textDesktop": "Exklusives Willkommensangebot von",
+            "textMobile": "Exklusives Willkommensangebot von",
+            "playGame": "Spiel starten",
+            "claimBonus": "Bonus sichern",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1018",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1019",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Bonus sichern",
+            "title": "Top-Casino",
+            "allCasino": "Alle Casino",
+            "welcomeBonusText": "Willkommensbonus"
+        },
+        "bonusDetails": {
+            "title": "Bonusdetails",
+            "getBonusButtonText": "Bonus erhalten",
+            "maximumAmountText": "Maximalbetrag",
+            "wagerText": "Umsatz",
+            "bonusCodeText": "Bonuscode",
+            "casino": "Casino",
+            "bonuses": "Boni",
+            "rate": "Rate",
+            "freeSpins": "Freispiele",
+            "moreInfo": "Mehr Infos",
+            "get": "Erhalten ",
+            "refresh": "Aktualisieren"
+        },
+        "advantages": {
+            "title": "Vorteile",
+            "advantagesBeforeText": "",
+            "items": [
+                "Grosse Auswahl an Spielautomaten",
+                "Live-Tische mit Roulette und Blackjack",
+                "Texas Hold’em Poker mit Jackpot",
+                "Exklusive Powerplay-Jackpot-Funktion",
+                "Modernes Design mit Seeblick",
+                "Erstklassiges Restaurant und Bar",
+                "Top-Lage neben dem Seedamm Plaza Hotel"
+            ],
+            "advantagesAfterText": "Das Swiss Casino Pfäffikon bietet eine perfekte Kombination aus Spielvielfalt, stilvollem Ambiente und erstklassigem Service. Gäste geniessen spannende Tischspiele, attraktive Jackpots und kulinarische Highlights in einer einzigartigen Lage am Zürichsee.\n",
+            "knowMore": "Mehr erfahren",
+            "appTitle": "Casino Pfäffikon App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1020",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Pfäffikon App",
+            "mobileGooglePlayImageTitle": "Casino Pfäffikon App",
+            "mobileIosImageTitle": "Casino Pfäffikon App"
+        },
+        "games": {
+            "playNowText": "Jetzt spielen",
+            "title": "Beliebte Spiele",
+            "allGames": "Alle Spiele"
+        },
+        "about": {
+            "history": {
+                "title": "Über Casino Pfäffikon",
+                "description1": "Das Casino Pfäffikon überzeugt mit hohen Jackpots, attraktiven Boni und grossen Gewinnchancen.\n",
+                "items": [
+                    "Jackpots bis 250’000 CHF",
+                    "Bonus für Neukunden 100 CHF",
+                    "Slot-Gewinne bis 50’000 CHF"
+                ],
+                "description2": "Das Casino Pfäffikon ist ein modernes Spielhaus mit stilvollem Ambiente und gemütlicher Atmosphäre. Gäste finden hier eine grosse Auswahl an Spielautomaten und beliebten Tischspielen. Live-Tische mit Roulette, Blackjack und Poker sorgen für Spannung. Progressive Jackpots und exklusive Features bieten zusätzliche Gewinnchancen. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1021",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Die Lage am Zürichsee macht das Casino besonders attraktiv für Besucher. Ein erstklassiges Restaurant und eine Bar runden das Angebot ab. Komfort und Service stehen im Mittelpunkt des Erlebnisses. Regelmässige Aktionen und Specials erhöhen die Unterhaltung. Das Casino Pfäffikon verbindet Spielspass, Stil und Gastfreundschaft. Es ist der perfekte Ort für Unterhaltung und Genuss.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino Pfäffikon: Stil, Spannung und Komfort",
+                "description": "<p>\nDas Casino Pfäffikon verbindet modernes Design mit einer luxuriösen und gemütlichen Atmosphäre. Die eleganten Räume mit grossen Panoramafenstern bieten einen beeindruckenden Blick auf den Zürichsee und schaffen ein Ambiente, das zum Verweilen und Spielen einlädt.\n\n<\/p>\n<br>\n<p>\nDas Casino ist täglich geöffnet und bietet flexible Öffnungszeiten für alle, die Unterhaltung suchen. Tagsüber herrscht eine entspannte Stimmung, während am Abend Spannung und Energie den Raum erfüllen. So können Gäste den Besuch perfekt in ihren Tagesablauf integrieren.\n\n<\/p>\n<br>\n<p>\nFür kulinarische Genüsse sorgt die stilvolle Bar und das Restaurant im Haus. Hier erwarten die Gäste feine Speisen und kreative Cocktails in einem modernen Ambiente. Besonders beliebt ist die George Bar & Grill, die mit ihrem exklusiven Angebot überzeugt.\n<\/p>\n<br>\n<p>\nIn unmittelbarer Nähe befinden sich komfortable Hotels wie das Seedamm Plaza, das mit luxuriösen Zimmern, Wellnessbereich und Restaurants punktet. Diese Lage macht das Casino Pfäffikon ideal für einen Kurzurlaub oder geschäftliche Treffen in stilvollem Rahmen.\n\n<\/p>\n<br>\n<p>\nRegelmässige Events und Unterhaltungsprogramme sorgen für Abwechslung und Spannung. Themenabende, Aktionen und Gewinnspiele schaffen ein festliches Flair und bieten zusätzliche Gewinnchancen. Bonusprogramme und Treueaktionen belohnen Stammgäste mit attraktiven Vorteilen.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nKomfort und Service im Casino Pfäffikon: Sprache, Zahlung und Annehmlichkeiten\n<\/h3>\n\n<p>\nIm Casino Pfäffikon steht die Qualität des Service und der Komfort der Gäste an erster Stelle. Das Personal spricht mehrere Sprachen, darunter Deutsch, Englisch und Französisch, was die Kommunikation für internationale Besucher erleichtert. Das freundliche Team hilft bei allen Fragen – von Spielregeln bis hin zur Organisation des Aufenthalts.\n\n<\/p>\n<br>\n<p>\nDie Zahlungsmethoden sind vielfältig und auf die Bedürfnisse der Gäste abgestimmt. Bargeld, Kreditkarten und gängige elektronische Zahlungssysteme werden akzeptiert, um maximale Flexibilität zu gewährleisten. Für Bargeldliebhaber gibt es spezielle Servicebereiche, die schnelle und sichere Transaktionen ermöglichen.\n\n<\/p>\n<br>\n<p>\nEin weiterer Vorteil sind die Geldautomaten direkt im Casino, die es den Gästen ermöglichen, Bargeld abzuheben oder den Kontostand zu prüfen, ohne den Spielbereich zu verlassen. Für internationale Besucher steht zudem ein Währungsumtausch-Service zur Verfügung, der den Aufenthalt noch komfortabler macht. Alle Transaktionen erfolgen sicher und diskret.\n\n<\/p>\n<br>\n<p>\nDas Casino Pfäffikon schafft eine Umgebung, in der sich jeder Gast wohlfühlt. Mehrsprachiger Service, flexible Zahlungsmöglichkeiten und praktische Einrichtungen machen es zu einem idealen Ort für Unterhaltung und Spielspass.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRegeln für den Besuch des Casino Pfäffikon: Komfort und Ordnung\n\n<\/h3>\n\n<p>\nDas Casino Pfäffikon bietet seinen Gästen ein stilvolles Ambiente, daher gelten bestimmte Regeln. Besucher sollten den Dresscode einhalten, der dem Konzept des Hauses entspricht. Der Eintritt ist nur für volljährige Personen erlaubt, und ein Ausweis ist erforderlich. Um Sicherheit und Komfort zu gewährleisten, sind Foto- und Videoaufnahmen sowie die Nutzung von Mobiltelefonen im Spielbereich eingeschränkt.\n\n<\/p>\n<br>\n<p>\nParkplätze stehen direkt beim Casino zur Verfügung, einschliesslich einer Tiefgarage. Für Gäste, die öffentliche Verkehrsmittel bevorzugen, gibt es nahegelegene Bushaltestellen und eine Schiffsanlegestelle. Alles ist darauf ausgerichtet, den Aufenthalt angenehm und sicher zu gestalten.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWichtige Regeln und Bedingungen\n\n<\/h4>\n\n <ul>\n            <li>• \nDresscode:\nSmart Casual wird empfohlen. Sport- und Strandkleidung sind nicht erlaubt.\n<\/li>\n            <li>• \nBesuchsbedingungen:\nEintritt nur für Personen ab 18 Jahren mit gültigem Ausweis.\n<\/li>\n            <li>• \nVerbote:\nFoto- und Videoaufnahmen im Spielbereich sind untersagt. Die Nutzung von Mobiltelefonen ist eingeschränkt.\n<\/li>\n            <li>• \nParken und Anreise:\nTiefgarage verfügbar. Bushaltestellen und Schiffsanlegestelle befinden sich in unmittelbarer Nähe.\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nProgramm für Stammgäste im Casino Pfäffikon: exklusive Vorteile\n<\/h3>\n\n<p>\nDas Casino Pfäffikon bietet ein einzigartiges Treueprogramm, das den Besuch noch attraktiver macht. Mitglieder profitieren von exklusiven Boni, persönlichen Angeboten und besonderen Privilegien. Die Anmeldung ist einfach und dauert nur wenige Minuten, danach können Gäste Punkte sammeln und ihren Status erhöhen.\n\n<\/p>\n<br>\n<p>\nDas Programm basiert auf einem Level-System, bei dem jeder neue Status zusätzliche Vorteile bringt. Je mehr Sie spielen, desto höher Ihr Level und desto grösser die Belohnungen. Dazu gehören Gratis-Spielguthaben, spezielle Aktionen, Einladungen zu Events und sogar Geschenke vom Casino.\n\n<\/p>\n<br>\n<p>\nDas Bonussystem umfasst Willkommensangebote, monatliche Aktionen und individuelle Belohnungen für aktive Spieler. Stammgäste können sich auf Cashback, zusätzliche Guthaben und exklusive Jackpots freuen. So wird das Spiel nicht nur spannend, sondern auch besonders lohnend.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- Левая колонка -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registrierungsbedingungen\n\n\n<\/h4>\n            <ul>\n            <li>• \nAnmeldung für Gäste ab 18 Jahren\n\n<\/li>\n            <li>• \nVorlage eines gültigen Ausweises erforderlich\n\n<\/li>\n            <li>• \nRegistrierung direkt im Casino oder online\n\n\n<\/li>\n  \n  \n        <\/ul><br>\n\n <h4 style = \"font-weight: bold; font-size: 24px;\">Level und wie man sie erreicht\n\n\n<\/h4>\n            <ul>\n            <li>• \nBasis-Level: sofort nach der Anmeldung verfügbar\n\n<\/li>\n            <li>• \nSilber-Level: durch Sammeln von Punkten beim Spielen\n\n<\/li>\n            <li>• \nGold-Level: Zugang zu VIP-Vorteilen und persönlichem Service\n\n<\/li>\n           <li>• \nPlatin-Level: maximale Boni, exklusive Events und Geschenke\n\n<\/li>\n       \n\n        <\/ul><br>\n    <\/div>\n\n    <!-- Правая колонка -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Boni und Vorteile\n\n\n<\/h4>\n        <ul>\n            <li>• \nWillkommensbonus bis zu 100 CHF\n\n<\/li>\n            <li>• \nMonatliche Aktionen mit Preisen bis 5’000 CHF\n\n<\/li>\n       <li>• \nCashback bis zu 10% auf verlorene Einsätze\n\n<\/li>\n            <li>• \nGratis-Spielguthaben für Slots\n\n<\/li>\n              <li>• \nEinladungen zu exklusiven Turnieren und VIP-Abenden\n\n<\/li>\n            <li>• \nGeschenke und Spezialangebote für Top-Level-Mitglieder\n\n\n<\/li>\n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Softwareanbieter"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Unterhaltung und Gaming im Casino Pfäffikon",
+                "description": "\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonusangebote und Specials im Casino Pfäffikon: mehr Gewinnchancen\n<\/h3>\n\n<p>\nDas Casino Pfäffikon begeistert seine Gäste nicht nur mit spannenden Spielen, sondern auch mit attraktiven Boni, speziellen Angeboten und saisonalen Events. Diese Aktionen schaffen zusätzliche Gewinnmöglichkeiten und machen jeden Besuch besonders. Regelmässig finden Themenabende, Feiertagsaktionen und spezielle Spielangebote statt, die sowohl Anfänger als auch erfahrene Spieler ansprechen.\n\n<\/p>\n<br>\n<p>\nBesondere Aufmerksamkeit gilt den Boni für Slot-Fans und Tischspiel-Liebhaber. Gäste können sich auf zusätzliche Guthaben, Gratis-Spins und die Teilnahme an Jackpot-Programmen freuen. Darüber hinaus gibt es saisonale Events mit grossen Preisen und exklusiven Geschenken, die für festliche Stimmung sorgen.\n\n<\/p>\n<br>\n<p>\nDie Specials umfassen Pokerturniere, Aktionen mit progressiven Jackpots und Geldpreisverlosungen. Das Casino Pfäffikon macht jeden Besuch spannend und lohnend.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- Левая колонка -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Willkommensbonus für neue Gäste\n\n\n<\/h4>\n            <ul>\n            <li>• \nBis zu 100 CHF für die ersten Einsätze\n\n<\/li>\n            <li>• \nExtra-Guthaben für Spielautomaten\n\n\n<\/li>\n \n        <\/ul><br>\n  <h4 style = \"font-weight: bold; font-size: 24px;\"> Slot-Boni\n\n\n<\/h4>\n        <ul>\n            <li>• \nGratis-Spins auf beliebten Slots\n\n<\/li>\n            <li>• \nTeilnahme an Jackpots mit Gewinnen bis 50’000 CHF\n<\/li>\n\n        <\/ul><br>\n  <h4 style = \"font-weight: bold; font-size: 24px;\"> Aktionen für Tischspiele\n\n\n<\/h4>\n        <ul>\n            <li>• \nErhöhte Quoten bei Roulette und Blackjack\n\n<\/li>\n            <li>• \nExklusive Einsätze mit Jackpot-Chancen bis 250’000 CHF\n<\/li>\n\n        <\/ul><br>\n\n    <\/div>\n\n    <!-- Правая колонка -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Saisonale Events und Verlosungen\n\n\n<\/h4>\n        <ul>\n            <li>• \nWeihnachtsaktionen mit Preisen bis 10’000 CHF\n\n<\/li>\n            <li>• \nSommerturniere mit Geschenken und Boni\n<\/li>\n\n        <\/ul><br>\n      \n  <h4 style = \"font-weight: bold; font-size: 24px;\"> Pokerturniere\n\n\n<\/h4>\n        <ul>\n            <li>• \nTexas Hold’em mit Buy-in und Preisfonds bis 5’000 CHF\n\n<\/li>\n            <li>• \nWöchentliche Gewinnspiele für aktive Spieler\n\n<\/li>\n\n  \n        <\/ul><br>\n\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBeliebte Spiele im Casino Pfäffikon: Spannung und Vielfalt\n\n<\/h3>\n\n<p>\nDas Casino Pfäffikon bietet seinen Gästen eine grosse Auswahl an Spielen, die sowohl Klassiker als auch moderne Unterhaltung umfassen. Hier können Sie Ihr Glück an Live-Tischen mit Roulette und Blackjack versuchen, die Dynamik von Poker erleben oder hunderte Spielautomaten mit progressiven Jackpots spielen. Jede Partie wird von erstklassigem Service und echter Casino-Atmosphäre begleitet.\n\n<\/p>\n<br>\n<p>\nBesonders beliebt sind Slots mit abwechslungsreichen Themen und Funktionen. Für Fans von Tischspielen gibt es American Roulette, Blackjack und Ultimate Texas Hold’em sowie Pokerturniere für Profis und Einsteiger. Das Casino aktualisiert regelmässig sein Spielangebot, um immer neue Erlebnisse zu bieten.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKurze Beschreibung der beliebtesten Spiele\n\n<\/h4>\n\n <ul>\n            <li>• \nAmerican Roulette:\nKlassisches Roulette mit Live-Dealern und flexiblen Einsätzen.\n<\/li>\n            <li>• \nBlackjack:\nStrategisches Kartenspiel mit hohen Gewinnchancen.\n<\/li>\n            <li>• \nUltimate Texas Hold’em:\nPoker mit progressivem Jackpot und Bonuswetten.\n<\/li>\n            <li>• \nTexas Hold’em Cash Game:\nFür Pokerfans – Tische mit Buy-in und grossen Gewinnmöglichkeiten.\n<\/li>\n\t    <li>• \nSpielautomaten:\nÜber 150 Slots mit Themen von Klassik bis Video, Jackpots bis 50’000 CHF.\n<\/li>\n\t    <li>• \nMultiroulette:\nElektronische Roulette-Version für schnelle und einfache Einsätze.\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimale und maximale Einsätze im Casino Pfäffikon\n<\/h3>\n\n<p> \nCasino Pfäffikon bietet flexible Bedingungen für Spieler mit unterschiedlichem Budget. Hier können Sie mit kleinen Einsätzen starten oder Ihr Glück auf VIP-Niveau versuchen. Tischspiele und Spielautomaten haben unterschiedliche Einsatzbereiche, was das Casino sowohl für Einsteiger als auch für erfahrene Spieler attraktiv macht.\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#4283BC; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Spiel<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mindesteinsatz<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Höchsteinsatz<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">American Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 CHF<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">25 CHF+<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Multiroulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 CHF<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10 CHF+<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10 CHF <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 CHF<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold’em<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 CHF <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 100 CHF<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Texas Hold’em Cash Game<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Buy-in 200 CHF<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Kein Limit<\/td>\n                <\/tr>\n        <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Spielautomaten<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.01 CHF<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">25 CHF<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents und Unterhaltung im Casino Pfäffikon: stilvolle Shows und Nightlife\n<\/h3>\n\n<p>\nDas Casino Pfäffikon ist nicht nur ein Ort für spannende Spiele, sondern auch ein Zentrum für besondere Events und Unterhaltung. Hier finden regelmässig Themenabende, Showprogramme und exklusive Aktionen statt, die für festliche Stimmung sorgen. Gäste können Live-Musik, Künstlerauftritte und einzigartige Shows in den eleganten Räumen des Casinos erleben.\n\n<\/p>\n<br>\n<p>\nBesonders beliebt sind die wöchentlichen Events wie Pokerturniere, spezielle Aktionen für Tischspiele und Gewinnspiele. Saisonale Highlights wie Weihnachtsfeiern, Sommerfeste und Themenpartys machen jeden Besuch zu einem besonderen Erlebnis.\n\n<\/p>\n<br>\n<p>\nFür Nachtschwärmer bietet das Casino stilvolle Bars und Lounge-Bereiche mit DJ-Sets und Partys. Hier können Gäste nach dem Spiel entspannen, Cocktails geniessen und zur Musik tanzen. Die Atmosphäre verbindet Nervenkitzel und Club-Feeling auf einzigartige Weise.\n\n<\/p>\n<br>\n<p>\nDarüber hinaus organisiert das Casino regelmässige Verlosungen und Aktionen mit attraktiven Preisen, Boni und Spielguthaben. So wird jeder Besuch nicht nur unterhaltsam, sondern auch lohnend.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle Unterhaltungsmöglichkeiten und Events mit Kurzbeschreibung\n\n<\/h4>\n\n <ul>\n            <li>• \nThemenabende:\nRegelmässige Veranstaltungen mit einzigartiger Atmosphäre und Wettbewerben.\n<\/li>\n            <li>• \nLive-Shows und Musik:\nKünstlerauftritte, Musikprogramme und DJ-Sets in der Lounge.\n<\/li>\n            <li>• \nPokerturniere:\nTexas Hold’em mit Preisgeldern bis 5’000 CHF.\n<\/li>\n            <li>• \nSaisonale Aktionen:\nWeihnachtspartys, Sommerfeste und Gewinnspiele mit Preisen bis 10’000 CHF.\n<\/li>\n\t    <li>• \nDJ-Partys und Nightlife:\nStylische Musik, Cocktails und Tanz bis spät in die Nacht.\n<\/li>\n\t    <li>• \nVerlosungen und Wettbewerbe:\nWöchentliche Aktionen mit Boni und Geschenken für aktive Spieler.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurants und Erholung im Casino Pfäffikon: Genuss und Komfort\n<\/h3>\n\n<p>\nDas Casino Pfäffikon ist nicht nur ein Ort für spannende Spiele, sondern auch für stilvolle Entspannung. Gäste können hier feine Küche, kreative Cocktails und erstklassigen Service geniessen. Im Casino befindet sich eine moderne Bar und ein Restaurant, das europäische Spezialitäten und Getränke für jeden Geschmack anbietet. Ideal für eine Pause zwischen den Spielen oder einen gemütlichen Abend.\n\n<\/p>\n<br>\n<p>\nBesonders beliebt sind die Lounge-Bereiche, die eine entspannte Atmosphäre schaffen. Hier können Besucher nach dem Spiel relaxen, Snacks und Drinks bestellen. Die George Bar & Grill überzeugt mit elegantem Design und einer vielfältigen Speisekarte, einschliesslich Grillgerichten und Signature-Cocktails.\n\n<\/p>\n<br>\n<p>\nFür Gäste, die länger bleiben möchten, gibt es in unmittelbarer Nähe komfortable Hotels. Das Seedamm Plaza ist eine Top-Adresse mit grosszügigen Zimmern, Wellnessbereich und gehobener Gastronomie. Ebenfalls empfehlenswert ist das Marina Lachen Hotel – ein Boutique-Hotel direkt am See mit romantischem Flair.\n\n<\/p>\n<br>\n<p>\nDas Casino Pfäffikon bietet alles für einen perfekten Aufenthalt: spannende Spiele, kulinarische Highlights und luxuriöse Unterkünfte.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nErholungsorte mit Kurzbeschreibung\n\n<\/h4>\n\n <ul>\n            <li>• \nGeorge Bar & Grill:\nStylische Bar mit kreativen Cocktails und Grillgerichten.\n<\/li>\n            <li>• \nCasino-Lounge-Bereiche:\nGemütliche Zonen für Drinks und Snacks.\n<\/li>\n            <li>• \nSeedamm Plaza Hotel:\n4★ Hotel neben dem Casino, Spa, Restaurants und Konferenzräume.\n<\/li>\n            <li>• \nMarina Lachen Hotel:\nBoutique-Hotel am See mit Panoramablick und romantischem Ambiente.\n<\/li>\n\n        <\/ul><br>\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Muss man einen Tisch im Voraus reservieren?",
+                    "answer": "Ja, für Pokerturniere und VIP-Tische wird eine Reservierung empfohlen.\n"
+                },
+                {
+                    "title": "Hat das Casino rund um die Uhr geöffnet?",
+                    "answer": "Nein, das Casino ist täglich bis spät in die Nacht geöffnet, aber nicht 24\/7.\n"
+                },
+                {
+                    "title": "Darf man Kinder mitbringen?",
+                    "answer": "Nein, der Eintritt ist nur für Personen ab 18 Jahren erlaubt.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1022",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Pfäffikon"
+        }
+    },
+    "langs": [
+        {
+            "code": "de-CH",
+            "name": "Немецкий",
+            "isDefault": true
+        }
+    ]
+}
